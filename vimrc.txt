@@ -1,0 +1,73 @@
+set encoding=utf-8
+scriptencoding utf-8
+set fileencoding=utf-8
+set fileencodings=ucs-boms,utf-8,euc-jp,cp932
+set fileformats=unix,dos,mac
+set ambiwidth=double
+set expandtab
+set softtabstop=4
+set autoindent
+set smartindent
+set number
+set cursorline
+set hlsearch
+set incsearch
+set ignorecase
+set smartcase
+set wildmenu
+set history=5000
+set clipboard=unnamedplus
+set tabstop=4
+set shiftwidth=4
+set whichwrap=b,s,h,l,<,>,[,],~
+set showmatch
+set statusline
+syntax enable
+let g:user_emmet_leader_key='<c-f>'
+source $VIMRUNTIME/macros/matchit.vim
+inoremap jj <esc>
+nnoremap j gj
+nnoremap k gk
+nnoremap <down> gj
+nnoremap <up> gk
+
+if has('mouse')
+    set mouse=a
+    if has('mouse_sgr')
+        set ttymouse=sgr
+    elseif v:version > 703 || v:version is 703 && has ('patch632')
+        set ttymouse=sgr
+    else
+        set ttymouse=xterm2
+    endif
+endif
+
+if &term =~ "xterm"
+    let &t_SI .= "\e[?2004h"
+    let &t_SI .= "\e[?2004l"
+    let &pastetoggle = "\e[201~"
+
+    function XTermPasteBegin(ret)
+        set paste
+        return a:ret
+    endfunction
+
+    inoremap <special> <expr> <Esc?[200~ XTermPasteBegin("")
+endif
+
+set backspace=indent,eol,start
+
+call plug#begin('~/.vim/plugged')
+Plug 'mattn/emmet-vim'
+Plug 'preservim/nerdtree'
+Plug 'junegunn/fzf', {'do': {-> fzf#install()}}
+Plug 'tpope/vim-commentary'
+Plug 'airblade/vim-gitgutter'
+Plug 'morhetz/gruvbox'
+Plug 'jiangmiao/auto-pairs'
+Plug 'tpope/vim-surround'
+Plug 'neoclide/coc.nvim', {'branch': 'release'}
+
+call plug#end()
+
+let g:coc_global_extensions = ['coc-json', 'coc-tsserver']
