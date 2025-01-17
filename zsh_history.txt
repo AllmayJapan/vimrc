@@ -1,0 +1,672 @@
+: 1736317952:0;PROMPT '($)$'
+: 1736317952:0;ls -l
+: 1736317952:0;la
+: 1736317952:0;find . -name .zshrc
+: 1736317952:0;sudo find . -name .zshrc
+: 1736317952:0;vim .zshrc
+: 1736317952:0;mv .zshrc ../
+: 1736317952:0;ll
+: 1736317952:0;source ../.zshrc
+: 1736317952:0;lls
+: 1736317952:0;vim ../.zshrc
+: 1736317952:0;echo $0
+: 1736317952:0;cat /etc/shells
+: 1736317952:0;cd mysite/web-program
+: 1736317952:0;pwd
+: 1736317952:0;source ~/.zshrc
+: 1736317952:0;PROMPT='%F{cyan}%n@%m %F{yellow}%~ %F{green}$(git_prompt_info)%f %# '
+: 1736317952:0;sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+: 1736317952:0;vim ~/.zshrc
+: 1736317952:0;cd
+: 1736317952:0;ls
+: 1736317952:0;cp .zshrc zshrc.txt
+: 1736317952:0;vim zshrc.txt
+: 1736317952:0;mv /mnt/c/Users/PG7/Downloads/åƒ¨¶ä½ƒ¼ã‚·ã‚¹ãƒ£ƒ¦ãƒ£ƒ€ã®åƒ¯‚è€ƒ£.md .
+: 1736317952:0;vim åƒ¨¶ä½ƒ¼ã‚·ã‚¹ãƒ£ƒ¦ãƒ£ƒ€ã®åƒ¯‚è€ƒ£.md
+: 1736317952:0;cd -
+: 1736317952:0;git log
+: 1736317952:0;docker compose ps -a]
+: 1736317952:0;vim nginx/nginx.conf
+: 1736317952:0;docker compose up -d
+: 1736317952:0;docker compose ps -a
+: 1736317952:0;vim html/scripts/auth.js
+: 1736317952:0;docker compose exec db mysql -u user -p
+: 1736317952:0;cd workspace/mysite/web-program
+: 1736317952:0;vim php/login.php
+: 1736317952:0;ls html
+: 1736317952:0;ls html/scripts
+: 1736317952:0;history
+: 1736317952:0;cat html/index.html codeShare/index_html.txt && cat html/auth/page.html > codeShare/auth_page_html.txt && cat html/scripts/auth.js > codeShare/auth_js.txt && cat php/login.php > codeShare/login_php.txt && cat php/check_auth.php > codeShare/check_auth_php.txt && cat html/scripts/script.js > codeShare/script_js.txt
+: 1736317952:0;cat html/index.html > codeShare/index_html.txt && cat html/auth/page.html > codeShare/auth_page_html.txt && cat html/scripts/auth.js > codeShare/auth_js.txt && cat php/login.php > codeShare/login_php.txt && cat php/check_auth.php > codeShare/check_auth_php.txt && cat html/scripts/script.js > codeShare/script_js.txt
+: 1736317952:0;cat php/fetch_posts.php > codeShare/fetch_posts_php.txt
+: 1736317952:0;cat html/index.html > codeShare/index_html.txt && cat html/auth/page.html > codeShare/auth_page_html.txt && cat html/scripts/auth.js > codeShare/auth_js.txt && cat php/login.php > codeShare/login_php.txt && cat php/check_auth.php > codeShare/check_auth_php.txt && cat html/scripts/script.js > codeShare/script_js.txt && cat php/save_post.php > codeShare/save_post_php.txt
+: 1736317952:0;git add html/ php/ codeShare/
+: 1736317952:0;git commit -m "imple auth"
+: 1736317952:0;fg
+: 1736317952:0;tree
+: 1736317952:0;git add html/ php/
+: 1736317952:0;git commit -m "fetch dbdata to front"
+: 1736317952:0;gh pr create --title "Imple process get data and auth function" --body "I implemented a process to retrive information from the database in JSON format and display it, and to retain the user_id in the login process."
+: 1736317952:0;git add nginx/
+: 1736317952:0;git commit -m "add nginx.conf changes"
+: 1736317952:0;git push -u origin feature/\#6-auth-section
+: 1736317952:0;git status
+: 1736317952:0;gh pr create --title "add nginx.conf" --body "modified nginx.conf"
+: 1736317952:0;git switch main
+: 1736317952:0;git merge feature/\#6-auth-section
+: 1736317952:0;docker compose down
+: 1736295430:0;echo &0
+: 1736295439:0;echo $0
+: 1736296251:0;vim .zshrc
+: 1736297274:0;source .zshrc
+: 1736297466:0;history
+: 1736297515:0;vim .zshrc
+: 1736297553:0;history
+: 1736297562:0;vim .zshrc
+: 1736298220:0;source .zshrc
+: 1736298222:0;ll
+: 1736298236:0;fzf
+: 1736298268:0;ll G webp
+: 1736298278:0;...
+: 1736298285:0;cd
+: 1736298287:0;history
+: 1736298304:0;l
+: 1736298322:0;gs
+: 1736298331:0;vim .zshrc
+: 1736299038:0;source .zshrc
+: 1736299617:0;vim .zsh_history
+: 1736299690:0;xclip
+: 1736299742:0;sudo apt install
+: 1736299765:0;sudo apt install xclip
+: 1736299801:0;alias
+: 1736299990:0;alias | grep xclip
+: 1736300029:0;alias | grep clip
+: 1736300035:0;vim .zshrc
+: 1736300172:0;source .zshrc
+: 1736300189:0;alias | clip
+: 1736300204:0;vim test.txt
+: 1736300255:0;date
+: 1736300266:0;date | clip
+: 1736300270:0;vim test.txt
+: 1736300425:0;fzf workspace
+: 1736300430:0;fzf
+: 1736300498:0;fzf -type -d
+: 1736300503:0;fzf -d
+: 1736300509:0;cd fzf
+: 1736300525:0;cd $(fzf)
+: 1736300802:0;vim ~/.vimrc
+: 1736301184:0;workspace/mysite/web-program
+: 1736301194:0;gs
+: 1736301306:0;vim ~/.zshrc
+: 1736301442:0;source ~/.zshrc
+: 1736301445:0;dcu
+: 1736301452:0;dpsa
+: 1736301633:0;ghis
+: 1736302460:0;ghis --title "Create pages for users" --body "Implement a page where user information can be vierified.Please create the basic information so that it can be displayed first." --label "enhancement" --asignee "AllmayJapan"
+: 1736302478:0;ghis --title "Create pages for users" --body "Implement a page where user information can be vierified.Please create the basic information so that it can be displayed first." --label "enhancement" --assignee "AllmayJapan"
+: 1736302684:0;gch -b feature/impl-user-page
+: 1736302749:0;gch main
+: 1736302794:0;gc "define verified"
+: 1736302832:0;ga directories.txt html/ migrations/ php/
+: 1736302835:0;gc "define verified"
+: 1736302852:0;gch feature/impl-user-page
+: 1736302881:0;cat html/index.html > codeShare/index_html.txt && cat html/auth/page.html > codeShare/auth_page_html.txt && cat html/scripts/auth.js > codeShare/auth_js.txt && cat php/login.php > codeShare/login_php.txt && cat php/check_auth.php > codeShare/check_auth_php.txt && cat html/scripts/script.js > codeShare/script_js.txt && cat php/save_post.php > codeShare/save_post_php.txt
+: 1736304197:0;vim php/fetch_posts.php
+: 1736304343:0;cd workspace/mysite/web-program
+: 1736304375:0;dexec db mysql -u user -p
+: 1736304470:0;dexec db mysql -u root -p
+: 1736309474:0;git status
+: 1736309479:0;ga html/
+: 1736309496:0;gm "add html"
+: 1736309505:0;gch main
+: 1736309534:0;git commit -m "add html\/"
+: 1736309538:0;gch main
+: 1736309559:0;git add .
+: 1736309570:0;git commit -m "commit"
+: 1736309585:0;gch main
+: 1736309650:0;git branch
+: 1736309668:0;gch feature/\#6-auth-section
+: 1736309696:0;gch feature/impl-user-page
+: 1736309702:0;gl
+: 1736309730:0;vim php/fetch_posts.php
+: 1736309734:0;fg
+: 1736311650:0;cat html/index.html > codeShare/index_html.txt && cat html/auth/page.html > codeShare/auth_page_html.txt && cat html/scripts/auth.js > codeShare/auth_js.txt && cat php/login.php > codeShare/login_php.txt && cat php/check_auth.php > codeShare/check_auth_php.txt && cat html/scripts/script.js > codeShare/script_js.txt && cat php/save_post.php > codeShare/save_post_php.txt && cat php/get_user_profile.php > codeShare/get_user_profile_php.txt && cat html/scripts/user_profile.js > codeShare/user_profile_js.txt && cat html/profile/page.html > codeShare/user_profile_html.txt
+: 1736312450:0;fg
+: 1736315420:0;cat html/index.html > codeShare/index_html.txt && cat html/auth/page.html > codeShare/auth_page_html.txt && cat html/scripts/auth.js > codeShare/auth_js.txt && cat php/login.php > codeShare/login_php.txt && cat php/check_auth.php > codeShare/check_auth_php.txt && cat html/scripts/script.js > codeShare/script_js.txt && cat php/save_post.php > codeShare/save_post_php.txt && cat php/get_user_profile.php > codeShare/get_user_profile_php.txt && cat html/scripts/user_profile.js > codeShare/user_profile_js.txt && cat html/profile/page.html > codeShare/user_profile_html.txt
+: 1736315637:0;fg
+: 1736315816:0;gs
+: 1736315856:0;git add html/ php/ codeShare/
+: 1736315954:0;gc "Added pages for retrieving and displaying user information."
+: 1736315961:0;gl
+: 1736316061:0;vim README.md
+: 1736316143:0;git add README.md
+: 1736316164:0;gc "modified README"
+: 1736316199:0;git push -u origin feature/impl-user-page
+: 1736316421:0;ghpr -t "Added the ability to retrieve user information." -b "A page was implemented to retrieve user information by clicking on any user from the list of posts and display it."
+: 1736316504:0;gch main
+: 1736316524:0;git pull origin main
+: 1736316558:0;git merge feature/impl-user-page
+: 1736316717:0;git config --global --get core.editor
+: 1736316752:0;git config --global core.editor "vim"
+: 1736316769:0;git commit --amend
+: 1736316798:0;gl
+: 1736316902:0;ls -1
+: 1736316925:0;vim .gitignore
+: 1736317023:0;mv /mnt/c/Users/PG7/Downloads/é€²æƒ­ƒ·åƒ€±åƒ±ƒªã‚µãƒ£³ãƒ£ƒ·ãƒ£«.md .
+: 1736317038:0;mv é€²æƒ­ƒ·åƒ€±åƒ±ƒªã‚µãƒ£³ãƒ£ƒ·ãƒ£«.md progress_report.md
+: 1736317059:0;vim progress_report.md
+: 1736317750:0;git add .gitignore
+: 1736317763:0;git commit -m "git ignore"
+: 1736317939:0;docker compose down
+: 1736382282:0;cd workspace/mysite
+: 1736382300:0;cd web-program
+: 1736382334:0;vim ~/.zshrc
+: 1736382389:0;dcu
+: 1736382396:0;dcp
+: 1736382402:0;dp
+: 1736382406:0;vim ~/.zshrc
+: 1736382428:0;dpsa
+: 1736383110:0;gh issue create --title "Please modify the input form on the login page." --body "The form on the login page continues to retain the information entered. This is a security issue and should be corrected so that the form is left blank after the login and new member process is complete." --label "bug" --assignee "AllmayJapan"
+: 1736383183:0;gch -b develop
+: 1736383755:0;gch -b bugfix/Improved-input-forms
+: 1736384359:0;for file in php/*.php; do\
+cp "$file" "codeShare/$(basename "${file%.php}_php.txt")"\
+done
+: 1736384429:0;cat html/auth/page.html codeShare/auth_page_html.txt
+: 1736384438:0;cat html/auth/page.html > codeShare/auth_page_html.txt
+: 1736384534:0;vim $(fzf)
+: 1736384742:0;for file in html/scripts/*.js; do\
+cp "$file" "codeShare/$(basename "${file%.js}_js.txt")"\
+done
+: 1736384907:0;fg
+: 1736387291:0;for file in html/scripts/*.js; do\
+cp "$file" "codeShare/$(basename "${file%.js}_js.txt")"\
+done
+: 1736387412:0;fg
+: 1736389511:0;for file in html/scripts/*.js; do\
+cp "$file" "codeShare/$(basename "${file%.js}_js.txt")"\
+done
+: 1736389514:0;for file in php/*.php; do\
+cp "$file" "codeShare/$(basename "${file%.php}_php.txt")"\
+done
+: 1736389631:0;fg
+: 1736390644:0;gs
+: 1736390660:0;ga codeShare/ html/
+: 1736390673:0;gc
+: 1736390689:0;git commit
+: 1736390822:0;git switch develop
+: 1736390834:0;git merge bugfix/Improved-input-forms
+: 1736391236:0;gh issue create --title "Fix problems after signed up." --body "Please ensure that messages are sent with the new user's ID associated within the process that redirects after new registration." --label "bug" --assignee "AllmayJapan"
+: 1736391334:0;gch -b bugfix/Fix-process-registration
+: 1736391586:0;vim php/login.php
+: 1736395576:0;fg
+: 1736395588:0;for file in php/*.php; do\
+cp "$file" "codeShare/$(basename "${file%.php}_php.txt")"\
+done
+: 1736395616:0;for file in html/scripts/*.js; do\
+cp "$file" "codeShare/$(basename "${file%.js}_js.txt")"\
+done
+: 1736395785:0;vim php/register.php
+: 1736399361:0;git commit -m 
+: 1736399368:0;gs
+: 1736399380:0;ga codeShare/ html/ php/
+: 1736399386:0;git commit
+: 1736399557:0;git switch develop
+: 1736399584:0;git push -u origin develop
+: 1736399857:0;git push -u origin bugfix/Fix-process-registration:develop
+: 1736400633:0;gh pr create --base develop --head bugfix/Fix-process-registration --title "Setting of id after new registration process" --body "Improved message generation using the ID assigned after new registration, so that the new user's name appears in the list of posts."
+: 1736400820:0;git merge bugfix/Fix-process-registration
+: 1736400824:0;gh pr create --base develop --head bugfix/Fix-process-registration --title "Setting of id after new registration process" --body "Improved message generation using the ID assigned after new registration, so that the new user's name appears in the list of posts."
+: 1736401362:0;git push -u origin bugfix/Fix-process-registration
+: 1736401381:0;gh pr create --base develop --head bugfix/Fix-process-registration --title "Setting of id after new registration process" --body "Improved message generation using the ID assigned after new registration, so that the new user's name appears in the list of posts."
+: 1736401441:0;gs
+: 1736401470:0;gch bugfix/Fix-process-registration
+: 1736401472:0;gs
+: 1736401604:0;gl
+: 1736402494:0;vim progress_report.md
+: 1736402633:0;history
+: 1736402677:0;alias
+: 1736402784:0;vim ~/.zshrc
+: 1736402804:0;alias | grep docker
+: 1736402813:0;alias | grep git
+: 1736402849:0;fg
+: 1736402909:0;source ~/.zshrc
+: 1736402919:0;alias | grep git
+: 1736402936:0;cd
+: 1736402951:0;mkdir settings
+: 1736402962:0;rmdir settings
+: 1736402969:0;mkcd settings
+: 1736402987:0;vim aliases.txt
+: 1736402995:0;ls
+: 1736403044:0;alias | grep git > git_aliases.txt
+: 1736403055:0;vim git_aliases.txt
+: 1736403444:0;cd ..
+: 1736403446:0;ll
+: 1736403447:0;l
+: 1736403499:0;find / -name ini
+: 1736403520:0;sudo find / -name ini
+: 1736403643:0;find /etc -name php.ini
+: 1736403649:0;sudo find /etc -name php.ini
+: 1736404311:0;cd -
+: 1736404314:0;cd
+: 1736404321:0;cd workspace/mysite/web-program
+: 1736404330:0;dcd
+: 1736404338:0;docker compose down
+: 1736467823:0;cd workspace
+: 1736467825:0;ll
+: 1736468061:0;cd mysite
+: 1736468062:0;ls
+: 1736468428:0;cd web-program
+: 1736468429:0;ls
+: 1736468516:0;alias | grep docker
+: 1736468524:0;dcu
+: 1736468535:0;dpsa
+: 1736468746:0;dexec db mysql -u root -p
+: 1736468796:0;dexec compose exec db mysql -u root -p
+: 1736468819:0;d compose exec db mysql -u root -p
+: 1736469226:0;gs
+: 1736469231:0;git status
+: 1736469286:0;git checkout main
+: 1736473731:0;ls ~/.ssh
+: 1736474499:0;git branch
+: 1736476335:0;vim ~/.zshrc
+: 1736476382:0;source ~/.zshrc
+: 1736476741:0;vim ~/.zshrc
+: 1736476829:0;gh issue list
+: 1736477143:0;vim html/index.html
+: 1736477309:0;for file in html/scripts/*.js; do\
+cp "$file" "codeShare/$(basename "${file%.js}_js.txt")"\
+done
+: 1736477316:0;for file in php/*.php; do\
+cp "$file" "codeShare/$(basename "${file%.php}_php.txt")"\
+done
+: 1736477734:0;fg
+: 1736477775:0;vim php/logout.php
+: 1736479259:0;git add html/ php/ codeShare/
+: 1736479265:0;git commit
+: 1736479449:0;fg
+: 1736479464:0;git status
+: 1736479476:0;git add html/ php/
+: 1736479483:0;git commit
+: 1736479510:0;git status
+: 1736479544:0;for file in php/*.php; do\
+cp "$file" "codeShare/$(basename "${file%.php}_php.txt")"\
+done
+: 1736479555:0;for file in html/scripts/*.js; do\
+cp "$file" "codeShare/$(basename "${file%.js}_js.txt")"\
+done
+: 1736479630:0;cat html/index.html > codeShare/index_html.txt
+: 1736480941:0;git checkout -b feature/message-delition-function
+: 1736480981:0;git status
+: 1736481336:0;vim php/get_user_profile.php
+: 1736483118:0;git add php/ html/
+: 1736483123:0;git status
+: 1736483148:0;git add codeShare/
+: 1736483151:0;git status
+: 1736483156:0;git commit
+: 1736484705:0;for file in html/scripts/*.js; do\
+cp "$file" "codeShare/$(basename "${file%.js}_js.txt")"\
+done
+: 1736484712:0;for file in php/*.php; do\
+cp "$file" "codeShare/$(basename "${file%.php}_php.txt")"\
+done
+: 1736484717:0;git add codeShare/
+: 1736484726:0;git commit
+: 1736485129:0;fg
+: 1736485144:0;vim php/delete_post.php
+: 1736487726:0;d compose exec db mysql -u root -p
+: 1736487787:0;fg
+: 1736487952:0;d compose exec db mysql -u root -p
+: 1736488293:0;cd workspace/mysite/web-program
+: 1736488316:0;fg
+: 1736488524:0;for file in php/*.php; do\
+cp "$file" "codeShare/$(basename "${file%.php}_php.txt")"\
+done
+: 1736488531:0;for file in html/scripts/*.js; do\
+cp "$file" "codeShare/$(basename "${file%.js}_js.txt")"\
+done
+: 1736488627:0;cat html/profile/page.html > codeShare/user_profile_html.txt
+: 1736488872:0;dpsa
+: 1736488923:0;d compose logs php | grep error | tee codeShare/dockerLogs.txt
+: 1736488938:0;d compose logs php
+: 1736488981:0;d compose logs nginx | grep error
+: 1736489043:0;docker compose ps -a
+: 1736489057:0;d compose logs web | grep error
+: 1736489114:0;fg
+: 1736489124:0;vim html/scripts/script.js
+: 1736490548:0;gh issue create --title "Include post ID in JSON on profile page" --body "On the profile page, the post ID required for the delete request is not being returned in JSON, please modify the php file." --label "bug" --assignee "AllmayJapan"
+: 1736490556:0;git status
+: 1736490566:0;git add php/ html/ codeShare/
+: 1736490570:0;git commit
+: 1736490672:0;git push origin feature/message-delition-function
+: 1736490795:0;gh pr create --base develop --head feature/message-delition-function --title "Delete function is being implemented on the profile page." --body "TODO"
+: 1736490809:0;docker compose down
+: 1736814039:0;docker builder prune --all
+: 1736814053:0;docker volume ls
+: 1736814060:0;docker volume prune
+: 1736814070:0;docker ps -a
+: 1736814084:0;docker images
+: 1736814098:0;docker image prune -a
+: 1736814240:0;workspace
+: 1736814242:0;ls
+: 1736814299:0;la
+: 1736814581:0;alias | grep git
+: 1736814967:0;ls -lh
+: 1736814990:0;du -h
+: 1736815039:0;du -h | grep $
+: 1736815113:0;cd
+: 1736815228:0;d
+: 1736815436:0;du -sh
+: 1736815456:0;sudo du -sh
+: 1736815552:0;sudo du -sh workspace
+: 1736815556:0;ll
+: 1736815614:0;ls -la
+: 1736815757:0;sudo du -sh /etc
+: 1736815760:0;sudo du -sh /opt
+: 1736815764:0;sudo du -sh /tmp
+: 1736815780:0;sudo du -sh /home
+: 1736815793:0;ls /
+: 1736815806:0;sudo du -sh /var
+: 1736815821:0;sudo du -sh /dev
+: 1736815845:0;sudo du -sh bim
+: 1736815849:0;sudo du -sh bin
+: 1736815866:0;sudo du -sh usr
+: 1736815889:0;sudo du -sh /usr
+: 1736815904:0;sudo du -sh /sys
+: 1736816088:0;sudo rm -rf /var/log/*.gz /var/log/*.1
+: 1736816101:0;sudo apt clean
+: 1736816128:0;sudo du -sh /var
+: 1736816146:0;sudo apt autoremove
+: 1736816165:0;node -v
+: 1736816207:0;sudo du -h --max-depth=1 /
+: 1736816430:0;sudo du -h --max-depth=1 --exclude=/mnt /
+: 1736816472:0;sudo du -h --max-depth=1 --exclude=/mnt --exclude=/proc /
+: 1736816553:0;ls -lh
+: 1736816621:0;ls -lha
+: 1736816782:0;cd workspace/mysite
+: 1736816804:0;gh repo clone AllmayJapan/curio_future
+: 1736816817:0;ls
+: 1736816820:0;cd curio_future
+: 1736816831:0;git branch
+: 1736816852:0;docker compose build
+: 1736816916:0;docker compose up -d
+: 1736816943:0;docker compose ps -a
+: 1736816975:0;docker compose logs backend G error
+: 1736816984:0;docker compose logs backend | grep error
+: 1736817422:0;cd backend
+: 1736817480:0;ls app
+: 1736817690:0;docker compose down
+: 1736817721:0;composer install
+: 1736817733:0;cd ../frontend
+: 1736817738:0;npm install
+: 1736817757:0;cd ../backend
+: 1736817763:0;ls -la
+: 1736817786:0;vim .env.example
+: 1736817865:0;docker compose up -d
+: 1736818679:0;docker images
+: 1736818694:0;history | grep prune
+: 1736818713:0;docker builder prune --all
+: 1736818748:0;history | image
+: 1736818755:0;history | grep image
+: 1736818759:0;:319
+: 1736818766:0;docker image prune -a
+: 1736818811:0;alias | grep grep
+: 1736818860:0;mv /mnt/c/Users/PG7/Downloads/*.pem .
+: 1736818861:0;ls
+: 1736818887:0;mv *.pem ssh_office.pem
+: 1736818889:0;ls
+: 1736818962:0;ll
+: 1736819012:0;mv ssh_office.pem .ssh/
+: 1736819061:0;chmod 600 .ssh/ssh_office.pem
+: 1736819066:0;ll .ssh
+: 1736819124:0;vim .ssh/config
+: 1736819689:0;ssh curio
+: 1736821161:0;vim .ssh/config
+: 1736821453:0;ll .ssh
+: 1736821486:0;sftp curio_sftp
+: 1736821958:0;ssh curio
+: 1736826949:0;exit
+: 1736829057:0;ssh curio
+: 1736830143:0;wp --version
+: 1736830230:0;curl -O https+//raw.githubusercontent.com/wp-cli/builds/gh-pages/phar/wp-cli.phar
+: 1736830244:0;curl -O https://raw.githubusercontent.com/wp-cli/builds/gh-pages/phar/wp-cli.phar
+: 1736830273:0;php wp-cli.phar --info
+: 1736830294:0;chmod +x wp-cli.phar
+: 1736830315:0;sudo mv wp-cli.phar /usr/local/bin/wp
+: 1736830332:0;wp --info
+: 1736830343:0;wp cli update
+: 1736830356:0;sudo wp cli update
+: 1736831009:0;wp --version
+: 1736831052:0;wp option get siteurl
+: 1736831071:0;wp option update siteurl "https://curiofuture.com"\
+wp option update home "https://curiofuture.com"\
+
+: 1736831311:0;find ./ -name wp-config.php
+: 1736831397:0;sudo find / -name wp-config.php --exclude=/mnt --exclude=/proc /
+: 1736831570:0;sudo find / \( -path /mnt -o -path /proc \) -prune -o -type f -name "wp-config.php" -print
+: 1736831619:0;sudo find / \( -path /mnt -o -path /proc -o -path /sys \) -prune -o -type f -name "wp-config.php" -print
+: 1736831764:0;wp option get siteurl
+: 1736831908:0;ssh curio
+: 1736832100:0;wp core download --path=/home/allmay/workspace/curio_press
+: 1736832142:0;ssh curio
+: 1736909854:0;ls /etc
+: 1736909896:0;vim /etc/hosts
+: 1736911052:0;ssh curio
+: 1736912107:0;zsh
+: 1736912215:0;history
+: 1736912248:0;history | grep docker
+: 1736912439:0;vim ~/.zshrc
+: 1736912511:0;history
+: 1736914016:0;cd workspace/mysite/web-program
+: 1736914019:0;ls
+: 1736914034:0;docker compose up -d
+: 1736914094:0;docker compose ps -a
+: 1736914310:0;ls
+: 1736914436:0;docker compose exec db mysql -u user -p
+: 1736914511:0;vim README.md
+: 1736914769:0;find ./ -name directory
+: 1736914781:0;ls
+: 1736914801:0;tree > directories.txt
+: 1736914808:0;vim directories.txt
+: 1736915172:0;vim html/auth/page.html
+: 1736915230:0;cd codeShare
+: 1736915230:0;ls
+: 1736915244:0;mkdir front back
+: 1736915245:0;ls
+: 1736915313:0;mkdir front/{html,scripts}
+: 1736915329:0;mv *_html.txt front/html
+: 1736915342:0;mv *_js.txt front/scripts
+: 1736915372:0;mv *_php.txt back
+: 1736915374:0;ls
+: 1736915433:0;mkdir infrastructure
+: 1736915466:0;mv docker*.txt infrastructure
+: 1736915478:0;mv *.conf infrastructure
+: 1736915479:0;ls
+: 1736915495:0;mv *_conf.txt infrastructure
+: 1736915499:0;ls
+: 1736915792:0;ls front/html
+: 1736915901:0;../
+: 1736915913:0;vim html/auth/page.html
+: 1736915928:0;vim html/profile/page.html
+: 1736916009:0;cp html/scripts/user_profile.js codeShare/front/scripts/user_profile_js.txt
+: 1736916570:0;cp html/profile/page.html codeShare/front/html/user_profile_html.txt
+: 1736916695:0;fg
+: 1736919817:0;ls php
+: 1736919976:0;fg
+: 1736921005:0;docker compose exec db mysql -u user -p
+: 1736921045:0;fg
+: 1736921316:0;docker compose exec db mysql -u user -p
+: 1736921414:0;fg
+: 1736921563:0;docker compose exec db mysql -u user -p
+: 1736921635:0;fg
+: 1736921773:0;docker compose exec db mysql -u user -p
+: 1736921847:0;fg
+: 1736922322:0;git status
+: 1736922359:0;git add README.md codeShare/ directories.txt html/ php/
+: 1736922363:0;git commit
+: 1736922457:0;git push origin feature/message-delition-function
+: 1736922500:0;gh pr create --base develop --head feature/message-delition-function --title "Delete function is being implemented on the profile page." --body "TODO"
+: 1736922608:0;docker compose down
+: 1736986593:0;ssh curio
+: 1736995120:0;kkkk
+: 1736995126:0;ssh curio
+: 1736995179:0;cd workspace
+: 1736995202:0;cd designPractice/Yoshikawa_portforio/ls
+: 1736995214:0;cd designPractice/Yoshikawa_portforio/
+: 1736995215:0;ls
+: 1736995226:0;cd ../
+: 1736995227:0;ls
+: 1736995238:0;cd blogX
+: 1736995238:0;ls
+: 1736995248:0;ls Index
+: 1736995256:0;..
+: 1736995258:0;ls
+: 1736995266:0;ls mysite
+: 1736995282:0;ls mysite/public
+: 1736995299:0;cd mysite/public/html/
+: 1736995300:0;ls
+: 1736995308:0;vim index.html
+: 1736995353:0;git status
+: 1736995365:0;..
+: 1736995367:0;git status
+: 1736995374:0;git add html/
+: 1736995376:0;git commit
+: 1736995400:0;..
+: 1736995589:0;gh repo cleate mysite_cuio --public --source . --push
+: 1736995611:0;gh repo cleate mysite_cuio --source . --push
+: 1736995656:0;gh repo create mysite_cuio --public --source . --push
+: 1736995675:0;git push -u origin main
+: 1736995756:0;git status
+: 1736995767:0;git switch main
+: 1736995771:0;git status
+: 1736995785:0;git merge feature/impl_latestArticles
+: 1736995800:0;git status
+: 1736995850:0;git remote add origin git@github.com:AllmayJapan/mysite_cuio.git
+: 1736995863:0;git push -u origin main
+: 1736995905:0;gh auth login
+: 1736996053:0;git push -u origin main
+: 1736996097:0;gh repo list
+: 1736996249:0;code ./
+: 1736997037:0;cd
+: 1736997125:0;mkcd ~/.config/emmet && vim emmet.json
+: 1736997425:0;vim index.html
+: 1736997479:0;vim ~/.vimrc
+: 1736997757:0;cd
+: 1736997762:0;vim test.html
+: 1736997773:0;vim ~/.vimrc
+: 1736997841:0;vim test.html
+: 1736997863:0;vim ~/.vimrc
+: 1736997953:0;vim test.html
+: 1736997970:0;vim ~/.vimrc
+: 1736998066:0;vim test.html
+: 1736998130:0;vim ~/.vimrc
+: 1737000409:0;vim .ssh/config
+: 1737000660:0;gcc --version
+: 1737001124:0;cd workspace
+: 1737001124:0;ls
+: 1737001138:0;mkcd http_server
+: 1737001149:0;..
+: 1737001154:0;rmdir http_server
+: 1737001200:0;mkdir -p http_server/{src,include,tests}
+: 1737001203:0;cd http_server
+: 1737001204:0;ls
+: 1737001221:0;touch Makefile README.md
+: 1737001266:0;touch src/{main,server,request,response}.cpp
+: 1737001297:0;touch include/{server,request,response}.hpp
+: 1737001336:0;touch tests/test_{server,request}.cpp
+: 1737001341:0;tree
+: 1737001377:0;vim Makefile
+: 1737002173:0;vim src/main.cpp
+: 1737004265:0;mkdir code_share
+: 1737004290:0;cp src/main{.cpp,_cpp.txt}
+: 1737004305:0;cp src/server{.cpp,_cpp.txt}
+: 1737004328:0;cp include/server{.hpp,_hpp.txt}
+: 1737004347:0;cp Makefile{,.txt}
+: 1737004373:0;mv src/*_cpp.txt code_share
+: 1737004385:0;mv include/server_hpp.txt code_share
+: 1737004395:0;mv Makefile.txt code_share
+: 1737004523:0;vim Makefile
+: 1737004529:0;fg
+: 1737004824:0;make
+: 1737004833:0;sudo apt install make
+: 1737004843:0;make
+: 1737004848:0;sudo make
+: 1737004929:0;sudo apt install g++
+: 1737004947:0;g++ --version
+: 1737004953:0;make
+: 1737004975:0;vim src/server.cpp
+: 1737005051:0;fg
+: 1737005125:0;mkdir log
+: 1737005146:0;make | tee log/make_log.txt
+: 1737005162:0;cat log/make_log.txt
+: 1737005238:0;vim src/server.cpp
+: 1737005396:0;ls
+: 1737005404:0;./http_server
+: 1737005660:0;vim src/server.cpp
+: 1737008154:0;make
+: 1737008162:0;ls
+: 1737008166:0;./http_server
+: 1737008217:0;curl http://localhost:8080
+: 1737008268:0;history | cp
+: 1737008276:0;history G cp
+: 1737008284:0;history | grep cp
+: 1737008338:0;cp src/main.cpp code_share/main_cpp.txt
+: 1737008365:0;cp src/server.cpp code_share/server_cpp.txt
+: 1737008391:0;cp src/request.cpp code_share/request_cpp.txt
+: 1737008424:0;cp include/request.hpp code_share/request_cpp.txt
+: 1737008635:0;vim src/request.cpp
+: 1737008732:0;vim src/server.cpp
+: 1737008805:0;make
+: 1737008859:0;vim src/request.cpp
+: 1737008997:0;git init
+: 1737009009:0;git add .
+: 1737009042:0;gh repo create cpp_HTTP_server --public --source . --push
+: 1737009062:0;git commit
+: 1737009082:0;gh repo create cpp_HTTP_server --public --source . --push
+: 1737073462:0;cd workspace/
+: 1737073464:0;ls
+: 1737073481:0;http_server
+: 1737073487:0;git fetch
+: 1737073529:0;git pull origin main
+: 1737073539:0;ls
+: 1737073633:0;cd workspace/http_server
+: 1737073637:0;./http_server
+: 1737078777:0;cd workspace/mysite
+: 1737078778:0;ls
+: 1737078784:0;ls web-program
+: 1737078807:0;docker compose up -d
+: 1737078815:0;cd web-program
+: 1737078819:0;docker compose up -d
+: 1737078840:0;docker compose ps -a
+: 1737078861:0;vim docker-compose.yml
+: 1737079076:0;tree
+: 1737079132:0;vim nginx/nginx.conf
+: 1737079312:0;cd workspace/http_server
+: 1737079314:0;ls
+: 1737079329:0;./http_server
+: 1737079347:0;docker compose down
+: 1737079356:0;./http_server
+: 1737079416:0;cd ../
+: 1737079418:0;..
+: 1737079423:0;http_server
+: 1737079426:0;ls
+: 1737079433:0;vim src/server.cpp
+: 1737079530:0;tree
+: 1737079873:0;cd -
+: 1737079940:0;cd mysite
+: 1737082603:0;cd
+: 1737082716:0;mkcd backup
+: 1737082805:0;cp ~/.vimrc ./vimrc
+: 1737082806:0;ls
+: 1737082867:0;cp ~/.vim
+: 1737085992:0;ls
+: 1737086003:0;mv vimrc vimrc.txt
+: 1737086022:0;git init
+: 1737086025:0;git add .
+: 1737086030:0;git commit
+: 1737086102:0;gh repo create vimrc --public --source . --push
+: 1737086204:0;cd
+: 1737086242:0;vim ~/.zshrc
+: 1737086947:0;vim .zshrc
+: 1737086977:0;cp .zshrc backup/zshrc.txt
+: 1737087005:0;cp .zsh_history backup/zsh_history.txt
